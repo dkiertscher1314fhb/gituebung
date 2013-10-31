@@ -1,4 +1,4 @@
 gituebung
 =========
 
-Den Umgang mit Git und Github Ã¼ben.
+Den Umgang mit Git und Github üben.
