@@ -4,4 +4,4 @@ pom.xml
 /classes/
 /targets/
 .lein-deps-sum
-/something
+/something/
